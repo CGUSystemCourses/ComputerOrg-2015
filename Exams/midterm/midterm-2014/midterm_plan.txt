@@ -1,0 +1,16 @@
+1. draw the state-transition diagram from a circuit (15pts)
+	- figure
+
+2. design the sequential circuit from a given state-transition diagram (20pts)
+
+3. modulo-10 down-counter design (15pts)
+
+4. 5-digit count-down timer with precision up to 0.001 sec (20pts)
+
+5. shifting lights control (20pts)
+
+6. design a vending machine (30pts)
+
+
+
+
